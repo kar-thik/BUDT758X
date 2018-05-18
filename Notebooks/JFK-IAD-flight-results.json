@@ -1,0 +1,56 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "143.20",
+        "departure": "JFK, New York",
+        "arrival": "IAD, Washington",
+        "flight duration": "1 hours 35 minutes",
+        "airline": "JetBlue Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:17pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:52pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "268.20",
+        "departure": "JFK, New York",
+        "arrival": "IAD, Washington",
+        "flight duration": "1 hours 27 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:45am",
+                "arrival_airport": "IAD",
+                "arrival_time": "11:12am",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "93.20",
+        "departure": "JFK, New York",
+        "arrival": "IAD, Washington",
+        "flight duration": "1 hours 37 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:05pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:42pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    }
+]

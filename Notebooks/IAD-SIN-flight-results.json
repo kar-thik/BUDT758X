@@ -1,0 +1,2240 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "1030.34",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "30 hours 50 minutes",
+        "airline": "Turkish Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "11:00pm",
+                "arrival_airport": "IST",
+                "arrival_time": "4:15pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "IST",
+                "departure_time": "2:00am",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1135.65",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "39 hours 50 minutes",
+        "airline": "Ethiopian Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "11:00am",
+                "arrival_airport": "ADD",
+                "arrival_time": "7:15am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ADD",
+                "departure_time": "12:05am",
+                "arrival_airport": "SIN",
+                "arrival_time": "2:50pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1151.51",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "31 hours 20 minutes",
+        "airline": "Qatar Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "8:25pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "4:00pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "2:45am",
+                "arrival_airport": "SIN",
+                "arrival_time": "3:45pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1151.51",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "24 hours 40 minutes",
+        "airline": "Qatar Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "8:25pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "4:00pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "8:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:05am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1330.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "28 hours 46 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "7:29am",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:18am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "12:30pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:55pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:25pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1330.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "41 hours 21 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:25pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1338.16",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "31 hours 24 minutes",
+        "airline": "Singapore Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "11:26am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:43pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "10:40am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "12:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1341.29",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "22 hours 0 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:55am",
+                "arrival_airport": "DXB",
+                "arrival_time": "8:05am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "9:25am",
+                "arrival_airport": "SIN",
+                "arrival_time": "8:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1342.65",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "39 hours 10 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:55am",
+                "arrival_airport": "DXB",
+                "arrival_time": "8:05am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:30am",
+                "arrival_airport": "SIN",
+                "arrival_time": "2:05pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1350.96",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "31 hours 24 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "11:26am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:43pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "10:40am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "12:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1354.48",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "22 hours 30 minutes",
+        "airline": "Korean Air",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "1:20pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "6:40pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1354.48",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "27 hours 40 minutes",
+        "airline": "Korean Air",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "1:20pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:00am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1362.76",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "36 hours 12 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:38am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:59am",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "10:40am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "12:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "34 hours 25 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "9:10am",
+                "arrival_airport": "LAX",
+                "arrival_time": "11:33am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "26 hours 1 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:34pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "8:05pm",
+                "plane_code": "752",
+                "plane": "Boeing 757-200"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 33 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:42pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "3:23pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "10:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "24 hours 50 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:25pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "8:06pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "10:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "23 hours 15 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "7:00pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:48pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "10:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "33 hours 0 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "9:15am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:58am",
+                "plane_code": "752",
+                "plane": "Boeing 757-200"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "10:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "33 hours 57 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "8:18am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:01am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "10:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "30 hours 50 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "3:15pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "27 hours 10 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "4:25pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:56pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "23 hours 19 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "8:16pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:50pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1375.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "28 hours 2 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "3:33pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:04pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1385.60",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "37 hours 31 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:04am",
+                "arrival_airport": "LAX",
+                "arrival_time": "8:34am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1385.60",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "45 hours 34 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:01pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "12:29am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1385.60",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "35 hours 20 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "8:15am",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:40am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1385.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "22 hours 55 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:20pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:25pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "5:00pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:15pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1385.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "23 hours 40 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:35pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:25pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "6:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1385.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "23 hours 55 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:20pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:25pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "6:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1386.30",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "28 hours 40 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "7:05am",
+                "arrival_airport": "SEA",
+                "arrival_time": "10:03am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "SEA",
+                "departure_time": "11:47am",
+                "arrival_airport": "NRT",
+                "arrival_time": "2:30pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "5:15pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:45pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1387.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "23 hours 55 minutes",
+        "airline": "All Nippon Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:20pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:25pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "6:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1387.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "22 hours 55 minutes",
+        "airline": "All Nippon Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:20pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:25pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "5:00pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:15pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1387.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "23 hours 40 minutes",
+        "airline": "All Nippon Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "12:35pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:25pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "6:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1396.70",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "28 hours 51 minutes",
+        "airline": "Japan Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "7:29am",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:18am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "12:25pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:55pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "5:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:20am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "37 hours 36 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "4:40pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "8:30pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 1 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "12:30am",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:10am",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:55am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 31 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "12:30am",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:35am",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:25pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 31 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:35am",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:25pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "41 hours 21 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "12:30am",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:25pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 1 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:10am",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:55am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "32 hours 11 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "12:30am",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "11:15am",
+                "arrival_airport": "SIN",
+                "arrival_time": "3:05pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1456.75",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "36 hours 16 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:54pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "3:20pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:10pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1484.29",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "23 hours 45 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:10pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "7:10pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:55am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1515.68",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "22 hours 30 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "1:20pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "6:40pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1610.54",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "25 hours 55 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "4:35pm",
+                "arrival_airport": "PEK",
+                "arrival_time": "6:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "12:10am",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:30am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1610.54",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "41 hours 20 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "4:35pm",
+                "arrival_airport": "PEK",
+                "arrival_time": "6:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "3:35pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:55pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1617.53",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "57 hours 5 minutes",
+        "airline": "China Southern Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:19am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:45am",
+                "arrival_airport": "CAN",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CAN",
+                "departure_time": "11:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "3:05am",
+                "plane_code": "73Q",
+                "plane": "Boeing 737-400"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1629.04",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "33 hours 5 minutes",
+        "airline": "China Southern Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:19am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:15am",
+                "arrival_airport": "CAN",
+                "arrival_time": "3:20pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CAN",
+                "departure_time": "11:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "3:05am",
+                "plane_code": "73Q",
+                "plane": "Boeing 737-400"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1653.04",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "28 hours 30 minutes",
+        "airline": "China Southern Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:19am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:15am",
+                "arrival_airport": "CAN",
+                "arrival_time": "3:20pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CAN",
+                "departure_time": "6:25pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "10:30pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1783.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "27 hours 15 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "9:00am",
+                "arrival_airport": "YUL",
+                "arrival_time": "10:45am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            },
+            {
+                "departure_airport": "YUL",
+                "departure_time": "2:05pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:50pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "6:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1793.89",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "35 hours 15 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:50pm",
+                "arrival_airport": "BRU",
+                "arrival_time": "7:30am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "BRU",
+                "departure_time": "1:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "5:35am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:50pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:05pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1971.08",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "37 hours 50 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:50pm",
+                "arrival_airport": "BRU",
+                "arrival_time": "7:30am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "BRU",
+                "departure_time": "1:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "5:35am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:25pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:40pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1971.08",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "32 hours 40 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:50pm",
+                "arrival_airport": "BRU",
+                "arrival_time": "7:30am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "BRU",
+                "departure_time": "1:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "5:35am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:15am",
+                "arrival_airport": "SIN",
+                "arrival_time": "2:30pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1971.08",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 25 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:50pm",
+                "arrival_airport": "BRU",
+                "arrival_time": "7:30am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "BRU",
+                "departure_time": "1:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "5:35am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:00am",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:15am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1984.93",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 5 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:10pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "8:00am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "2:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:25am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:00am",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:15am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1984.93",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "32 hours 20 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:10pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "8:00am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "2:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:25am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:15am",
+                "arrival_airport": "SIN",
+                "arrival_time": "2:30pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2032.07",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "38 hours 30 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "7:00pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:48pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "11:30pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:30am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "4:10pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:30pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2032.07",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "43 hours 56 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:34pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "8:05pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:00pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:20am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "7:50pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "1:30am",
+                "plane_code": "763",
+                "plane": "Boeing 767-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2032.07",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "42 hours 30 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "7:00pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:48pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "11:30pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:30am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "7:50pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "1:30am",
+                "plane_code": "763",
+                "plane": "Boeing 767-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2032.07",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "39 hours 56 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:34pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "8:05pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:00pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:20am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "4:10pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:30pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2183.82",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 11 minutes",
+        "airline": "Singapore Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:39pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:33pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "1:15am",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:35am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "8:00am",
+                "arrival_airport": "SIN",
+                "arrival_time": "11:50am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2278.80",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "28 hours 0 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "8:15am",
+                "arrival_airport": "YUL",
+                "arrival_time": "10:00am",
+                "plane_code": "ER4",
+                "plane": "Embraer RJ145"
+            },
+            {
+                "departure_airport": "YUL",
+                "departure_time": "2:05pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:50pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "6:05pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "12:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2546.54",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "28 hours 10 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:30am",
+                "arrival_airport": "YYZ",
+                "arrival_time": "8:00am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "10:00am",
+                "arrival_airport": "HKG",
+                "arrival_time": "1:25pm",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "6:50pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "10:40pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2546.54",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "25 hours 5 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:30am",
+                "arrival_airport": "YYZ",
+                "arrival_time": "8:00am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "10:00am",
+                "arrival_airport": "HKG",
+                "arrival_time": "1:25pm",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "3:40pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2570.88",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "40 hours 24 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "5:06pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "6:19pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "11:55pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "4:00am",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "4:10pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:30pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3287.21",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "27 hours 5 minutes",
+        "airline": "Jet Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:20pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:30am",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:15pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:15am",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:25am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3287.21",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "35 hours 40 minutes",
+        "airline": "Jet Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:20pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "5:05pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "6:50am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:40am",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:00pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "4078.21",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "31 hours 5 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:20pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:35am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:15pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:25pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "4078.21",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "31 hours 25 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:20pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:35am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:45pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "4287.21",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 45 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:20pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:35am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "4:05pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "4350.36",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "34 hours 50 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "6:05pm",
+                "arrival_airport": "ZRH",
+                "arrival_time": "8:05am",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "ZRH",
+                "departure_time": "10:45pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "4:55pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "5233.21",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "29 hours 45 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:20pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:35am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:55pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "4:05pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "5894.90",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "22 hours 25 minutes",
+        "airline": "Air India",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "11:15am",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:15pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "9:40pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "6002.21",
+        "departure": "IAD, Washington",
+        "arrival": "SIN, Singapore",
+        "flight duration": "31 hours 10 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "IAD",
+                "departure_time": "10:15pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:30am",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:15pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:25pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    }
+]

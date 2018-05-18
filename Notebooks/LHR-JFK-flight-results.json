@@ -1,0 +1,1472 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "1026.52",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "16 hours 0 minutes",
+        "airline": "Turkish Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:30am",
+                "arrival_airport": "IST",
+                "arrival_time": "5:15pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "IST",
+                "departure_time": "6:25pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:30pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1084.75",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "26 hours 50 minutes",
+        "airline": "Icelandair",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:10pm",
+                "arrival_airport": "KEF",
+                "arrival_time": "11:10pm",
+                "plane_code": "75W",
+                "plane": "Boeing 757-200"
+            },
+            {
+                "departure_airport": "KEF",
+                "departure_time": "5:00pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:00pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1186.67",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 15 minutes",
+        "airline": "Aer Lingus",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:50am",
+                "arrival_airport": "SNN",
+                "arrival_time": "11:20am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "SNN",
+                "departure_time": "12:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:05pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1200.42",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "22 hours 15 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:00pm",
+                "arrival_airport": "FCO",
+                "arrival_time": "11:30pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "9:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:15pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1206.99",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 22 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:20am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:40am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "10:20am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:42pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1206.99",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 35 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "3:50pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "6:05pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "7:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:25pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1206.99",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "12 hours 20 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:50am",
+                "arrival_airport": "CDG",
+                "arrival_time": "2:10pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "4:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:10pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1209.69",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 40 minutes",
+        "airline": "Aer Lingus",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:40am",
+                "arrival_airport": "DUB",
+                "arrival_time": "8:00am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "DUB",
+                "departure_time": "10:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:20pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1209.69",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 40 minutes",
+        "airline": "Aer Lingus",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:40am",
+                "arrival_airport": "DUB",
+                "arrival_time": "9:00am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "DUB",
+                "departure_time": "10:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:20pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1212.45",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 35 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "3:50pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "6:05pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "7:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:25pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1222.78",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "13 hours 55 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:30am",
+                "arrival_airport": "AMS",
+                "arrival_time": "9:00am",
+                "plane_code": "73W",
+                "plane": "BOEING 737-700 (WINGLETS) PASSENGER"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:25pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1222.78",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 39 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:30am",
+                "arrival_airport": "AMS",
+                "arrival_time": "9:00am",
+                "plane_code": "73W",
+                "plane": "BOEING 737-700 (WINGLETS) PASSENGER"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:09pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1222.78",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 51 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:30am",
+                "arrival_airport": "AMS",
+                "arrival_time": "9:00am",
+                "plane_code": "73W",
+                "plane": "BOEING 737-700 (WINGLETS) PASSENGER"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "9:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:21pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1222.78",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 14 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:45pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "4:55pm",
+                "plane_code": "73W",
+                "plane": "BOEING 737-700 (WINGLETS) PASSENGER"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "5:55pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:59pm",
+                "plane_code": "74E",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1538.75",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 55 minutes",
+        "airline": "Icelandair",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:05pm",
+                "arrival_airport": "KEF",
+                "arrival_time": "3:10pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "KEF",
+                "departure_time": "5:00pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:00pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1538.75",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 30 minutes",
+        "airline": "Icelandair",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:05pm",
+                "arrival_airport": "KEF",
+                "arrival_time": "3:10pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "KEF",
+                "departure_time": "5:35pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:35pm",
+                "plane_code": "75W",
+                "plane": "Boeing 757-200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2062.16",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 55 minutes",
+        "airline": "Iberia",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:35am",
+                "arrival_airport": "MAD",
+                "arrival_time": "3:00pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "MAD",
+                "departure_time": "4:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:30pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2065.41",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 25 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:30pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "4:05pm",
+                "plane_code": "32A",
+                "plane": "AIRBUS INDUSTRIE A320 SHARKLETS"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "5:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:55pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2075.60",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 35 minutes",
+        "airline": "Swiss International Air Lines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:00am",
+                "arrival_airport": "ZRH",
+                "arrival_time": "8:40am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ZRH",
+                "departure_time": "9:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:35pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2076.96",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "13 hours 15 minutes",
+        "airline": "Austrian Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:00am",
+                "arrival_airport": "VIE",
+                "arrival_time": "9:15am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "VIE",
+                "departure_time": "10:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:15pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2080.71",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 25 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:30pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "4:05pm",
+                "plane_code": "32A",
+                "plane": "AIRBUS INDUSTRIE A320 SHARKLETS"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "5:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:55pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 40 minutes",
+        "airline": "Iberia",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:50pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:30pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:25pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 40 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:50pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:30pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 40 minutes",
+        "airline": "Finnair",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:10am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 40 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:10am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 50 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:20pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 40 minutes",
+        "airline": "Finnair",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:50pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:30pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 50 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:05pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "4:15pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:15pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 40 minutes",
+        "airline": "Iberia",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:10am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 45 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:20am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:05pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:25pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:15am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:10pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "5:00pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:55pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2083.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 50 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:35am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:25pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 45 minutes",
+        "airline": "Virgin Atlantic",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:15pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:25pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 45 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:45am",
+                "plane_code": "346",
+                "plane": "AIRBUS INDUSTRIE A340-600"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:05pm",
+                "plane_code": "346",
+                "plane": "AIRBUS INDUSTRIE A340-600"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "5:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:30pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "Virgin Atlantic",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "3:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:45pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "Virgin Atlantic",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:05pm",
+                "plane_code": "346",
+                "plane": "AIRBUS INDUSTRIE A340-600"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 50 minutes",
+        "airline": "Virgin Atlantic",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:20pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 45 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:15pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:50pm",
+                "plane_code": "346",
+                "plane": "AIRBUS INDUSTRIE A340-600"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "Virgin Atlantic",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:50pm",
+                "plane_code": "346",
+                "plane": "AIRBUS INDUSTRIE A340-600"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 50 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:20pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "3:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:45pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2089.76",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 45 minutes",
+        "airline": "Virgin Atlantic",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:45am",
+                "plane_code": "346",
+                "plane": "AIRBUS INDUSTRIE A340-600"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2103.30",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:25pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2103.30",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "7 hours 55 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:25pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2103.30",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "5:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:30pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "2103.30",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "5:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:30pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2113.40",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 53 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:35am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:59pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "3:33pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:28pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2187.86",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 53 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:35am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:59pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "3:33pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:28pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2201.40",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "11 hours 53 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:35am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:59pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "3:33pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:28pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2235.89",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "13 hours 20 minutes",
+        "airline": "Finnair",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:30am",
+                "arrival_airport": "HEL",
+                "arrival_time": "12:20pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "HEL",
+                "departure_time": "2:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:50pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "659.93",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "30 hours 55 minutes",
+        "airline": "LOT-Polish Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:10pm",
+                "arrival_airport": "WAW",
+                "arrival_time": "9:40pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "WAW",
+                "departure_time": "4:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:05pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "779.81",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "29 hours 10 minutes",
+        "airline": "Royal Air Maroc",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:10pm",
+                "arrival_airport": "CMN",
+                "arrival_time": "9:35pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "CMN",
+                "departure_time": "3:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:20pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "789.93",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "18 hours 35 minutes",
+        "airline": "LOT-Polish Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:30am",
+                "arrival_airport": "WAW",
+                "arrival_time": "10:00am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "WAW",
+                "departure_time": "4:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:05pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "789.93",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "14 hours 10 minutes",
+        "airline": "LOT-Polish Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:30am",
+                "arrival_airport": "WAW",
+                "arrival_time": "10:00am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "WAW",
+                "departure_time": "12:25pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:40pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "829.29",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "29 hours 35 minutes",
+        "airline": "Aer Lingus",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:10pm",
+                "arrival_airport": "DUB",
+                "arrival_time": "7:30pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "DUB",
+                "departure_time": "4:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:45pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "905.69",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "10 hours 20 minutes",
+        "airline": "Aer Lingus",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:25pm",
+                "arrival_airport": "DUB",
+                "arrival_time": "2:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "DUB",
+                "departure_time": "4:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:45pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "906.52",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "17 hours 35 minutes",
+        "airline": "Turkish Airlines",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:15pm",
+                "arrival_airport": "IST",
+                "arrival_time": "4:00am",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "IST",
+                "departure_time": "6:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:50am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "922.78",
+        "departure": "LHR, London",
+        "arrival": "JFK, New York",
+        "flight duration": "29 hours 10 minutes",
+        "airline": "TAP Portugal",
+        "timings": [
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:50pm",
+                "arrival_airport": "LIS",
+                "arrival_time": "10:30pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "LIS",
+                "departure_time": "5:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:00pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    }
+]

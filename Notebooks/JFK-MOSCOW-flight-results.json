@@ -1,0 +1,1546 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "1085.70",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "10 hours 25 minutes",
+        "airline": "Finnair",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:40pm",
+                "arrival_airport": "HEL",
+                "arrival_time": "8:50am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "HEL",
+                "departure_time": "9:25am",
+                "arrival_airport": "SVO",
+                "arrival_time": "11:05am",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1085.70",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "12 hours 25 minutes",
+        "airline": "Finnair",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:40pm",
+                "arrival_airport": "HEL",
+                "arrival_time": "8:50am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "HEL",
+                "departure_time": "11:20am",
+                "arrival_airport": "SVO",
+                "arrival_time": "1:05pm",
+                "plane_code": "SU9",
+                "plane": "Superjet 100-95"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1222.85",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 55 minutes",
+        "airline": "Air Europa",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:05pm",
+                "arrival_airport": "MAD",
+                "arrival_time": "11:30am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "MAD",
+                "departure_time": "2:15pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "8:00pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1506.90",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "19 hours 45 minutes",
+        "airline": "Iberia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:45pm",
+                "arrival_airport": "MAD",
+                "arrival_time": "10:05am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "MAD",
+                "departure_time": "5:40pm",
+                "arrival_airport": "DME",
+                "arrival_time": "11:30pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1871.38",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 45 minutes",
+        "airline": "Air Serbia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "BEG",
+                "arrival_time": "10:20am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "BEG",
+                "departure_time": "1:25pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "5:15pm",
+                "plane_code": "737",
+                "plane": "Boeing 737"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2640.06",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "14 hours 20 minutes",
+        "airline": "Swiss International Air Lines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:25pm",
+                "arrival_airport": "GVA",
+                "arrival_time": "9:15am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "GVA",
+                "departure_time": "10:00am",
+                "arrival_airport": "ZRH",
+                "arrival_time": "10:55am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ZRH",
+                "departure_time": "12:20pm",
+                "arrival_airport": "DME",
+                "arrival_time": "4:45pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2761.21",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "12 hours 5 minutes",
+        "airline": "British Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "7:45am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:45am",
+                "arrival_airport": "DME",
+                "arrival_time": "2:35pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "510.86",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "24 hours 0 minutes",
+        "airline": "TAP Portugal",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:25pm",
+                "arrival_airport": "LIS",
+                "arrival_time": "11:25am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LIS",
+                "departure_time": "11:10pm",
+                "arrival_airport": "DME",
+                "arrival_time": "6:25am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "529.80",
+        "departure": "JFK, New York",
+        "arrival": "VKO, Moscow",
+        "flight duration": "15 hours 10 minutes",
+        "airline": "Azerbaijan Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:30am",
+                "arrival_airport": "GYD",
+                "arrival_time": "6:00am",
+                "plane_code": "787",
+                "plane": "Boeing 787"
+            },
+            {
+                "departure_airport": "GYD",
+                "departure_time": "7:25am",
+                "arrival_airport": "VKO",
+                "arrival_time": "9:40am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "561.05",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "9 hours 0 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:25pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "6:25am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "561.05",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "9 hours 15 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:05am",
+                "arrival_airport": "SVO",
+                "arrival_time": "5:20pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "561.05",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "9 hours 10 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:10pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "11:20am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "618.13",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "14 hours 40 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:40pm",
+                "arrival_airport": "MUC",
+                "arrival_time": "7:45am",
+                "plane_code": "346",
+                "plane": "AIRBUS INDUSTRIE A340-600"
+            },
+            {
+                "departure_airport": "MUC",
+                "departure_time": "11:20am",
+                "arrival_airport": "DME",
+                "arrival_time": "3:20pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "620.71",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "16 hours 40 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "11:35am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "5:25pm",
+                "arrival_airport": "DME",
+                "arrival_time": "9:35pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "654.47",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 10 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:30pm",
+                "arrival_airport": "MXP",
+                "arrival_time": "10:40am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "MXP",
+                "departure_time": "12:15pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:40pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "654.47",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 26 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:34pm",
+                "arrival_airport": "MXP",
+                "arrival_time": "7:45am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "MXP",
+                "departure_time": "10:40am",
+                "arrival_airport": "SVO",
+                "arrival_time": "3:00pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "654.47",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "15 hours 45 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:30pm",
+                "arrival_airport": "MXP",
+                "arrival_time": "10:40am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "MXP",
+                "departure_time": "2:50pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "7:15pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "654.86",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "13 hours 0 minutes",
+        "airline": "Brussels Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:15pm",
+                "arrival_airport": "BRU",
+                "arrival_time": "7:45am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "BRU",
+                "departure_time": "9:45am",
+                "arrival_airport": "DME",
+                "arrival_time": "2:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "655.31",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "20 hours 15 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:15pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "11:35am",
+                "plane_code": "74E",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "9:15pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "1:30am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "659.41",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "17 hours 40 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:25pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "12:55pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "7:30pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "12:05am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "670.71",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "13 hours 30 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "4:10pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "5:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "8:30am",
+                "arrival_airport": "DME",
+                "arrival_time": "12:40pm",
+                "plane_code": "32A",
+                "plane": "AIRBUS INDUSTRIE A320 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "676.29",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 15 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:40pm",
+                "arrival_airport": "FCO",
+                "arrival_time": "12:05pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "2:20pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "6:55pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "676.29",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "15 hours 35 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:40pm",
+                "arrival_airport": "FCO",
+                "arrival_time": "12:05pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "3:30pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "8:15pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "676.29",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 55 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "FCO",
+                "arrival_time": "10:20am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "12:35pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "5:25pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "676.62",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "11 hours 47 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:28pm",
+                "arrival_airport": "PRG",
+                "arrival_time": "11:55am",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "PRG",
+                "departure_time": "12:40pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "677.66",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "13 hours 5 minutes",
+        "airline": "Austrian Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:40pm",
+                "arrival_airport": "VIE",
+                "arrival_time": "8:15am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "VIE",
+                "departure_time": "10:00am",
+                "arrival_airport": "DME",
+                "arrival_time": "1:45pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "689.62",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "11 hours 47 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:28pm",
+                "arrival_airport": "PRG",
+                "arrival_time": "11:55am",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "PRG",
+                "departure_time": "12:40pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "689.62",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "11 hours 47 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:28pm",
+                "arrival_airport": "PRG",
+                "arrival_time": "11:55am",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "PRG",
+                "departure_time": "12:40pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "702.31",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 30 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "9:15am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "11:45am",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:00pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "706.41",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "12 hours 25 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:45pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "9:30am",
+                "arrival_airport": "SVO",
+                "arrival_time": "2:10pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "707.56",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "13 hours 0 minutes",
+        "airline": "Brussels Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:15pm",
+                "arrival_airport": "BRU",
+                "arrival_time": "7:45am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "BRU",
+                "departure_time": "9:45am",
+                "arrival_airport": "DME",
+                "arrival_time": "2:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "710.71",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "12 hours 10 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "11:35am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "12:55pm",
+                "arrival_airport": "DME",
+                "arrival_time": "5:05pm",
+                "plane_code": "32A",
+                "plane": "AIRBUS INDUSTRIE A320 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "715.31",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 30 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "9:15am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "11:45am",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:00pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "719.41",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "12 hours 25 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:45pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "9:30am",
+                "arrival_airport": "SVO",
+                "arrival_time": "2:10pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "719.41",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "12 hours 45 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "11:20am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "12:55pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "5:40pm",
+                "plane_code": "32A",
+                "plane": "AIRBUS INDUSTRIE A320 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "719.41",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 50 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "4:20pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "9:30am",
+                "arrival_airport": "SVO",
+                "arrival_time": "2:10pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "720.87",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 5 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:25pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "12:55pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "3:55pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "8:30pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "720.87",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 35 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:45pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "11:45am",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:20pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "720.87",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 45 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "11:20am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "2:05pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "6:40pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "721.68",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 20 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "7:50am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:00am",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:50pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "721.68",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 20 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:45pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:50am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:25pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "7:05pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "721.68",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 55 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "7:50am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:40am",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:25pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "734.68",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 20 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:45pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:50am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:25pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "7:05pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "734.68",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 55 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "7:50am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:40am",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:25pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "734.68",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 20 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:45pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "10:50am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:25pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "7:05pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "734.68",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 55 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "7:50am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "10:40am",
+                "arrival_airport": "SVO",
+                "arrival_time": "4:25pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "739.29",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 30 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:45pm",
+                "arrival_airport": "FCO",
+                "arrival_time": "8:20am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "10:30am",
+                "arrival_airport": "SVO",
+                "arrival_time": "3:15pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "784.17",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "11 hours 35 minutes",
+        "airline": "LOT-Polish Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:15pm",
+                "arrival_airport": "WAW",
+                "arrival_time": "8:45am",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "WAW",
+                "departure_time": "9:45am",
+                "arrival_airport": "SVO",
+                "arrival_time": "12:50pm",
+                "plane_code": "SU9",
+                "plane": "Superjet 100-95"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "784.17",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 25 minutes",
+        "airline": "LOT-Polish Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:15pm",
+                "arrival_airport": "WAW",
+                "arrival_time": "8:45am",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "WAW",
+                "departure_time": "12:45pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "3:40pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "787.98",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "14 hours 40 minutes",
+        "airline": "LOT-Polish Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:00pm",
+                "arrival_airport": "WAW",
+                "arrival_time": "12:30pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "WAW",
+                "departure_time": "4:35pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "7:40pm",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "787.98",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "12 hours 35 minutes",
+        "airline": "LOT-Polish Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:15pm",
+                "arrival_airport": "WAW",
+                "arrival_time": "8:45am",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "WAW",
+                "departure_time": "10:45am",
+                "arrival_airport": "SVO",
+                "arrival_time": "1:50pm",
+                "plane_code": "E95",
+                "plane": "EMBRAER 195"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "805.46",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "13 hours 26 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:44pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "7:20am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "9:30am",
+                "arrival_airport": "SVO",
+                "arrival_time": "2:10pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "823.29",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "15 hours 50 minutes",
+        "airline": "Alitalia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "4:25pm",
+                "arrival_airport": "FCO",
+                "arrival_time": "6:50am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "10:30am",
+                "arrival_airport": "SVO",
+                "arrival_time": "3:15pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "836.54",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "12 hours 20 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:15pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "11:35am",
+                "plane_code": "74E",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:15pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "5:35pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "836.89",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "28 hours 10 minutes",
+        "airline": "Royal Air Maroc",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:00pm",
+                "arrival_airport": "CMN",
+                "arrival_time": "8:50am",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "CMN",
+                "departure_time": "12:20am",
+                "arrival_airport": "DME",
+                "arrival_time": "8:10am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "839.81",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "13 hours 30 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "4:10pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "5:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "8:30am",
+                "arrival_airport": "DME",
+                "arrival_time": "12:40pm",
+                "plane_code": "32A",
+                "plane": "AIRBUS INDUSTRIE A320 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "845.60",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "12 hours 15 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:25pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "12:55pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "2:05pm",
+                "arrival_airport": "SVO",
+                "arrival_time": "6:40pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "858.70",
+        "departure": "JFK, New York",
+        "arrival": "SVO, Moscow",
+        "flight duration": "27 hours 15 minutes",
+        "airline": "Finnair",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:40pm",
+                "arrival_airport": "HEL",
+                "arrival_time": "8:50am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "HEL",
+                "departure_time": "2:15am",
+                "arrival_airport": "SVO",
+                "arrival_time": "3:55am",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "882.74",
+        "departure": "JFK, New York",
+        "arrival": "VKO, Moscow",
+        "flight duration": "15 hours 15 minutes",
+        "airline": "Turkish Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "12:30pm",
+                "arrival_airport": "IST",
+                "arrival_time": "5:15am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "IST",
+                "departure_time": "7:50am",
+                "arrival_airport": "VKO",
+                "arrival_time": "10:45am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "940.81",
+        "departure": "JFK, New York",
+        "arrival": "DME, Moscow",
+        "flight duration": "12 hours 10 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "11:35am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "12:55pm",
+                "arrival_airport": "DME",
+                "arrival_time": "5:05pm",
+                "plane_code": "32A",
+                "plane": "AIRBUS INDUSTRIE A320 SHARKLETS"
+            }
+        ]
+    }
+]

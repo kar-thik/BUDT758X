@@ -1,0 +1,1936 @@
+[
+    {
+        "stops": "2 Stop",
+        "ticket price": "1167.67",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "44 hours 35 minutes",
+        "airline": "Ethiopian Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:05am",
+                "arrival_airport": "ADD",
+                "arrival_time": "6:35am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "ADD",
+                "departure_time": "10:45pm",
+                "arrival_airport": "DUB",
+                "arrival_time": "5:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DUB",
+                "departure_time": "5:45am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:40am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1319.41",
+        "departure": "SHA, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "28 hours 40 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "SHA",
+                "departure_time": "9:55pm",
+                "arrival_airport": "PEK",
+                "arrival_time": "12:15am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "12:45pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:35pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1319.41",
+        "departure": "SHA, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "28 hours 45 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "SHA",
+                "departure_time": "9:50pm",
+                "arrival_airport": "PEK",
+                "arrival_time": "12:20am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "12:45pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:35pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1337.62",
+        "departure": "PVG, Shanghai",
+        "arrival": "BWI, Baltimore",
+        "flight duration": "21 hours 58 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:25pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "2:35pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "8:55pm",
+                "arrival_airport": "BWI",
+                "arrival_time": "10:23pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1347.72",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "19 hours 38 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:25pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "2:35pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "6:20pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:03pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1366.91",
+        "departure": "PVG, Shanghai",
+        "arrival": "BWI, Baltimore",
+        "flight duration": "19 hours 1 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:25pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "2:35pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "5:47pm",
+                "arrival_airport": "BWI",
+                "arrival_time": "7:26pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1374.99",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "22 hours 15 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:25pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "2:35pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "9:05pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "10:40pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "20 hours 31 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:25pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "9:05pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "11:56pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "19 hours 8 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:25pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "7:38pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "10:33pm",
+                "plane_code": "73G",
+                "plane": "Boeing 737-700"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "17 hours 37 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:25pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "6:10pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:02pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "21 hours 12 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "8:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "5:10pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:29pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "5:22am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "17 hours 51 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "4:10pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "5:05pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "7:00pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "10:01pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "18 hours 14 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:45pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "6:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "9:59pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "18 hours 56 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "4:10pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "5:05pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "8:10pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "11:06pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "23 hours 25 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "8:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "5:10pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:40pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:35am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "19 hours 34 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:30am",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:05pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "11:48pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:04am",
+                "plane_code": "752",
+                "plane": "Boeing 757-200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "17 hours 27 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:45pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "6:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "7:45pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:12pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "18 hours 27 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:45pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "6:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "8:40pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:12pm",
+                "plane_code": "ERJ",
+                "plane": "Embraer EMB-145"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "19 hours 22 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:00pm",
+                "arrival_airport": "DFW",
+                "arrival_time": "5:50pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "DFW",
+                "departure_time": "8:20pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "12:22am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "17 hours 37 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:25pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "6:05pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "9:02pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "19 hours 0 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:25pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "7:35pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:25pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "23 hours 17 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "6:25pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "3:45pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:40pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "5:42am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "22 hours 42 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "8:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "5:10pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:55pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "6:52am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "19 hours 20 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:00pm",
+                "arrival_airport": "DFW",
+                "arrival_time": "5:50pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "DFW",
+                "departure_time": "8:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "12:20am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "BWI, Baltimore",
+        "flight duration": "19 hours 51 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:00pm",
+                "arrival_airport": "DFW",
+                "arrival_time": "5:50pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "DFW",
+                "departure_time": "8:50pm",
+                "arrival_airport": "BWI",
+                "arrival_time": "12:51am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "24 hours 20 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:10pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "8:45am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "4:26pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "12:30am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1389.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "20 hours 44 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "3:25pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:20pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "9:23pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "12:09am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1393.75",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "29 hours 37 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:20pm",
+                "arrival_airport": "SEA",
+                "arrival_time": "9:19am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "SEA",
+                "departure_time": "10:00pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "5:57am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1403.27",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "20 hours 19 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:25pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "2:35pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "7:00pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "8:44pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1404.05",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "25 hours 47 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "10:10am",
+                "arrival_airport": "NRT",
+                "arrival_time": "2:55pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "4:30pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "4:11pm",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "10:04pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "11:57pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1404.05",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "23 hours 38 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "10:10am",
+                "arrival_airport": "NRT",
+                "arrival_time": "2:55pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "4:30pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "4:11pm",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "7:48pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "9:48pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1404.05",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "26 hours 12 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "10:10am",
+                "arrival_airport": "NRT",
+                "arrival_time": "2:55pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "4:30pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "4:11pm",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "10:36pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "12:22am",
+                "plane_code": "M88",
+                "plane": "BOEING (DOUGLAS) MD-88"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1423.11",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "27 hours 45 minutes",
+        "airline": "Qatar Airways",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:50pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "5:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "8:45am",
+                "arrival_airport": "IAD",
+                "arrival_time": "3:35pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1472.99",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "32 hours 40 minutes",
+        "airline": "Turkish Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "10:45pm",
+                "arrival_airport": "IST",
+                "arrival_time": "5:20am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "IST",
+                "departure_time": "2:45pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:25pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1625.21",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "24 hours 19 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "8:35am",
+                "arrival_airport": "ICN",
+                "arrival_time": "11:30am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "2:40pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:20am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "12:58pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:54pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1625.21",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "26 hours 38 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "8:35am",
+                "arrival_airport": "ICN",
+                "arrival_time": "11:30am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "2:40pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:20am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "3:19pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "11:13pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1686.94",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "27 hours 55 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:45am",
+                "arrival_airport": "AUH",
+                "arrival_time": "6:20am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:30am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:40pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1754.83",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "17 hours 3 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:10pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "7:00pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "8:50pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "10:13pm",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1754.83",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "26 hours 28 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:10pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "7:00pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "6:00am",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:38am",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1754.83",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "16 hours 49 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:10pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "7:00pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "8:35pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:59pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1760.83",
+        "departure": "PVG, Shanghai",
+        "arrival": "BWI, Baltimore",
+        "flight duration": "16 hours 53 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:10pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "7:00pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "8:25pm",
+                "arrival_airport": "BWI",
+                "arrival_time": "10:03pm",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1898.34",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "18 hours 18 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "4:55pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "6:18pm",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1986.30",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "44 hours 35 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:05am",
+                "arrival_airport": "DXB",
+                "arrival_time": "4:55am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:20am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:40am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1986.30",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "37 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "7:15am",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:05pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:20am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:40am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2024.34",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "21 hours 1 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "7:40pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:01pm",
+                "plane_code": "CR7",
+                "plane": "Canadian Regional Jet 700"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2024.34",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "22 hours 13 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "8:50pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "10:13pm",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2073.41",
+        "departure": "SHA, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "19 hours 55 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "SHA",
+                "departure_time": "11:55am",
+                "arrival_airport": "PEK",
+                "arrival_time": "2:10pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "6:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:50pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2073.41",
+        "departure": "SHA, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "18 hours 55 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "SHA",
+                "departure_time": "12:55pm",
+                "arrival_airport": "PEK",
+                "arrival_time": "3:10pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "6:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:50pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2132.34",
+        "departure": "PVG, Shanghai",
+        "arrival": "BWI, Baltimore",
+        "flight duration": "22 hours 3 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "8:25pm",
+                "arrival_airport": "BWI",
+                "arrival_time": "10:03pm",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2228.34",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "21 hours 59 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "8:35pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:59pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2275.34",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "21 hours 1 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:25pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "7:40pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:01pm",
+                "plane_code": "CR7",
+                "plane": "Canadian Regional Jet 700"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2442.26",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "21 hours 30 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:45am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:41pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "7:50pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:15pm",
+                "plane_code": "CR7",
+                "plane": "Canadian Regional Jet 700"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2494.26",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "24 hours 3 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:20pm",
+                "arrival_airport": "SEA",
+                "arrival_time": "9:19am",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "SEA",
+                "departure_time": "4:20pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "12:23am",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2522.10",
+        "departure": "PVG, Shanghai",
+        "arrival": "BWI, Baltimore",
+        "flight duration": "22 hours 33 minutes",
+        "airline": "Japan Airlines",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:50am",
+                "arrival_airport": "NRT",
+                "arrival_time": "3:55pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "6:15pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "6:15pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "8:55pm",
+                "arrival_airport": "BWI",
+                "arrival_time": "10:23pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2725.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "28 hours 30 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:20pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "5:40am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "1:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "3:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2725.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "27 hours 40 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:10am",
+                "arrival_airport": "CDG",
+                "arrival_time": "6:30am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "1:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "3:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2728.55",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "27 hours 30 minutes",
+        "airline": "KLM",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "12:10am",
+                "arrival_airport": "AMS",
+                "arrival_time": "6:55am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:20pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "3:40pm",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2760.73",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "25 hours 20 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "5:35am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "10:30am",
+                "arrival_airport": "IAD",
+                "arrival_time": "1:15pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2960.56",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "24 hours 43 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "7:20am",
+                "arrival_airport": "HKG",
+                "arrival_time": "10:00am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "11:55am",
+                "arrival_airport": "ORD",
+                "arrival_time": "1:55pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "5:05pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "8:03pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2960.56",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "25 hours 5 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "9:40am",
+                "arrival_airport": "HKG",
+                "arrival_time": "12:30pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "2:10pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:15pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "2:40pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:45pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2960.56",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "26 hours 45 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "8:00am",
+                "arrival_airport": "HKG",
+                "arrival_time": "11:00am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "2:10pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:15pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "2:40pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:45pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2960.56",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "24 hours 3 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "8:00am",
+                "arrival_airport": "HKG",
+                "arrival_time": "11:00am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "11:55am",
+                "arrival_airport": "ORD",
+                "arrival_time": "1:55pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "5:05pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "8:03pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "4106.46",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "17 hours 45 minutes",
+        "airline": "All Nippon Airways",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "10:00am",
+                "arrival_airport": "NRT",
+                "arrival_time": "1:50pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "4:10pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "3:45pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "4106.46",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "17 hours 30 minutes",
+        "airline": "All Nippon Airways",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "10:15am",
+                "arrival_airport": "NRT",
+                "arrival_time": "2:20pm",
+                "plane_code": "763",
+                "plane": "Boeing 767-300"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "4:10pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "3:45pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "792.22",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "30 hours 35 minutes",
+        "airline": "Korean Air",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "4:45pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:05pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:30am",
+                "arrival_airport": "IAD",
+                "arrival_time": "11:20am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "828.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "22 hours 22 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:45am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:41pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "8:35pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:07pm",
+                "plane_code": "CR7",
+                "plane": "Canadian Regional Jet 700"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "828.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "17 hours 10 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:45am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:41pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "3:21pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:55pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "828.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "21 hours 54 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:45am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:41pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "8:00pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "9:39pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "828.65",
+        "departure": "PVG, Shanghai",
+        "arrival": "DCA, Washington",
+        "flight duration": "17 hours 22 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "11:45am",
+                "arrival_airport": "DTW",
+                "arrival_time": "1:41pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "3:30pm",
+                "arrival_airport": "DCA",
+                "arrival_time": "5:07pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "991.22",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "29 hours 40 minutes",
+        "airline": "Korean Air",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "5:40pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:30am",
+                "arrival_airport": "IAD",
+                "arrival_time": "11:20am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "991.22",
+        "departure": "PVG, Shanghai",
+        "arrival": "IAD, Washington",
+        "flight duration": "32 hours 30 minutes",
+        "airline": "Korean Air",
+        "timings": [
+            {
+                "departure_airport": "PVG",
+                "departure_time": "2:50pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "5:25pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:30am",
+                "arrival_airport": "IAD",
+                "arrival_time": "11:20am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    }
+]

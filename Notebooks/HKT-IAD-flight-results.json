@@ -1,0 +1,2634 @@
+[
+    {
+        "stops": "2 Stop",
+        "ticket price": "13791.00",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "34 hours 30 minutes",
+        "airline": "Air France",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:50pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "8:40pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "11:15pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "6:10am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "1:30pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:20pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1715.84",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "37 hours 0 minutes",
+        "airline": "Aeroflot-Russian Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "11:55am",
+                "arrival_airport": "SVO",
+                "arrival_time": "6:05pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SVO",
+                "departure_time": "10:05am",
+                "arrival_airport": "IAD",
+                "arrival_time": "12:55pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1843.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "44 hours 46 minutes",
+        "airline": "China Southern Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:50am",
+                "arrival_airport": "CAN",
+                "arrival_time": "6:15am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "CAN",
+                "departure_time": "1:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:10am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55am",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:36am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1843.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "42 hours 41 minutes",
+        "airline": "China Southern Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "3:55am",
+                "arrival_airport": "CAN",
+                "arrival_time": "8:20am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "CAN",
+                "departure_time": "1:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:10am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55am",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:36am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "40 hours 5 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "12:20pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "1:45pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:10pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:05am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "35 hours 35 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "4:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:10pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:05am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "30 hours 25 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:00pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:25pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "34 hours 55 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:10pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:05am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "32 hours 40 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "9:10pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "37 hours 35 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "2:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "4:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "37 hours 35 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "2:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "4:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:10pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:05am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "35 hours 35 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "4:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "34 hours 55 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1922.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "32 hours 0 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "8:25pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:10am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1929.08",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "40 hours 5 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "12:20pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "1:45pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:50am",
+                "arrival_airport": "IAD",
+                "arrival_time": "4:25pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1953.22",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "31 hours 10 minutes",
+        "airline": "Qatar Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:40pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "11:00pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "8:20am",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1960.42",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "42 hours 35 minutes",
+        "airline": "Qatar Airways",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "8:15am",
+                "arrival_airport": "DOH",
+                "arrival_time": "12:05pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "8:20am",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:50pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1978.94",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "25 hours 10 minutes",
+        "airline": "Turkish Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "6:00am",
+                "arrival_airport": "IST",
+                "arrival_time": "1:05pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "IST",
+                "departure_time": "3:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:10pm",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2005.14",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "20 hours 50 minutes",
+        "airline": "Korean Air",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:15am",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:50am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2107.54",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "20 hours 50 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:15am",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:50am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2127.74",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "28 hours 2 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:50am",
+                "arrival_airport": "DTW",
+                "arrival_time": "9:56am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "3:30pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "5:02pm",
+                "plane_code": "CR7",
+                "plane": "Canadian Regional Jet 700"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2127.74",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "33 hours 9 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:50am",
+                "arrival_airport": "DTW",
+                "arrival_time": "9:56am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "8:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:09pm",
+                "plane_code": "CR7",
+                "plane": "Canadian Regional Jet 700"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2127.74",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "25 hours 40 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:20pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:40pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2127.74",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "30 hours 0 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:26pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:00pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2127.74",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "34 hours 4 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:29pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "11:04pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2135.94",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "49 hours 40 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "7:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:30pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:20pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:40pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2135.94",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "45 hours 36 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "7:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:30pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55am",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:36am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2135.94",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "45 hours 36 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55am",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:36am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2135.94",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "44 hours 9 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:50am",
+                "arrival_airport": "DTW",
+                "arrival_time": "9:56am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "7:20am",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:09am",
+                "plane_code": "CR7",
+                "plane": "Canadian Regional Jet 700"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2135.94",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "54 hours 0 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "7:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:30pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "5:26pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:00pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2139.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "43 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "12:50am",
+                "arrival_airport": "DXB",
+                "arrival_time": "4:25am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2139.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "34 hours 40 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "9:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "1:15pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2225.14",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "25 hours 40 minutes",
+        "airline": "Korean Air",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:00am",
+                "arrival_airport": "ICN",
+                "arrival_time": "8:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "10:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:20pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:40pm",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "31 hours 50 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "12:20pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "1:45pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "29 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "2:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "4:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "37 hours 15 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "6:55am",
+                "arrival_airport": "BKK",
+                "arrival_time": "8:20am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "26 hours 40 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "35 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "8:45am",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:10am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "35 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "8:45am",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:10am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "33 hours 50 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:20am",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:45am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "31 hours 50 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "12:20pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "1:45pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "33 hours 50 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:20am",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:45am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2332.78",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "27 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "4:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "53 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "2:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "4:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:05am",
+                "arrival_airport": "DXB",
+                "arrival_time": "5:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "51 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "4:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:05am",
+                "arrival_airport": "DXB",
+                "arrival_time": "5:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "50 hours 40 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:05am",
+                "arrival_airport": "DXB",
+                "arrival_time": "5:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "50 hours 40 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "3:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:15am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "46 hours 10 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:00pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:25pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:05am",
+                "arrival_airport": "DXB",
+                "arrival_time": "5:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "53 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "2:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "4:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "2:00am",
+                "arrival_airport": "DXB",
+                "arrival_time": "6:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "50 hours 40 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "2:00am",
+                "arrival_airport": "DXB",
+                "arrival_time": "6:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "53 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "2:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "4:15pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "3:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:15am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "48 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "9:10pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "3:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:15am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "46 hours 10 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:00pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:25pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "3:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:15am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "46 hours 10 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:00pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:25pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "2:00am",
+                "arrival_airport": "DXB",
+                "arrival_time": "6:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "48 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "9:10pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "2:00am",
+                "arrival_airport": "DXB",
+                "arrival_time": "6:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "51 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "4:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "2:00am",
+                "arrival_airport": "DXB",
+                "arrival_time": "6:00am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "46 hours 10 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:00pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:25pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "9:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "1:15pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "51 hours 20 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "4:50pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:15pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "3:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:15am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "55 hours 50 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "12:20pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "1:45pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:05am",
+                "arrival_airport": "DXB",
+                "arrival_time": "5:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2335.50",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "48 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "9:10pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "1:05am",
+                "arrival_airport": "DXB",
+                "arrival_time": "5:00am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2339.08",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "50 hours 40 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "5:30pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "6:55pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2339.08",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "37 hours 15 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "6:55am",
+                "arrival_airport": "BKK",
+                "arrival_time": "8:20am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2339.08",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "48 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "9:10pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2339.08",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "46 hours 10 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:00pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:25pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2339.08",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "48 hours 25 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "9:10pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:35pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2339.08",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "46 hours 10 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "10:00pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "11:25pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "4:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:10am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2738.30",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "29 hours 20 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:40am",
+                "arrival_airport": "PEK",
+                "arrival_time": "7:45am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "6:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:00pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3037.76",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "43 hours 43 minutes",
+        "airline": "Air Canada",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:30am",
+                "arrival_airport": "ICN",
+                "arrival_time": "9:35am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "5:05pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "3:50pm",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "7:55am",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:13am",
+                "plane_code": "CRJ",
+                "plane": "Canadair RJ"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3190.76",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "31 hours 40 minutes",
+        "airline": "Austrian Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:15pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "8:40pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:55pm",
+                "arrival_airport": "VIE",
+                "arrival_time": "5:25am",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "VIE",
+                "departure_time": "10:35am",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:55pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3190.76",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "31 hours 10 minutes",
+        "airline": "Austrian Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:45pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "9:10pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:55pm",
+                "arrival_airport": "VIE",
+                "arrival_time": "5:25am",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "VIE",
+                "departure_time": "10:35am",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:55pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3190.76",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "30 hours 20 minutes",
+        "airline": "Austrian Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "8:35pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:55pm",
+                "arrival_airport": "VIE",
+                "arrival_time": "5:25am",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            },
+            {
+                "departure_airport": "VIE",
+                "departure_time": "10:35am",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:55pm",
+                "plane_code": "",
+                "plane": ""
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3198.28",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "35 hours 40 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "8:35pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:50pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "5:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "5:00pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "8:15pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3198.28",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "30 hours 5 minutes",
+        "airline": "Lufthansa",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "8:35pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:50pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "5:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "11:25am",
+                "arrival_airport": "IAD",
+                "arrival_time": "2:40pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3479.42",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "32 hours 53 minutes",
+        "airline": "Asiana Airlines",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:30am",
+                "arrival_airport": "ICN",
+                "arrival_time": "9:35am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "7:00pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "5:20pm",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "7:37pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "10:23pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "4986.30",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "23 hours 40 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "7:20am",
+                "arrival_airport": "BKK",
+                "arrival_time": "8:45am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "10:10am",
+                "arrival_airport": "PEK",
+                "arrival_time": "3:50pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "6:25pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "7:00pm",
+                "plane_code": "788",
+                "plane": "Boeing 787-8"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "5970.76",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "23 hours 50 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "9:25pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:50pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "12:30am",
+                "arrival_airport": "NRT",
+                "arrival_time": "8:25am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "10:40am",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:15am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "5972.76",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "23 hours 50 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "9:25pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:50pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "12:30am",
+                "arrival_airport": "NRT",
+                "arrival_time": "8:25am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "10:40am",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:15am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "5972.76",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "23 hours 50 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "9:25pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:50pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "11:55pm",
+                "arrival_airport": "NRT",
+                "arrival_time": "7:35am",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "10:40am",
+                "arrival_airport": "IAD",
+                "arrival_time": "9:15am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "6032.86",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "46 hours 15 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "3:20am",
+                "arrival_airport": "HGH",
+                "arrival_time": "8:40am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "HGH",
+                "departure_time": "9:55pm",
+                "arrival_airport": "PEK",
+                "arrival_time": "12:20am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "12:45pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "1:35pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "8457.30",
+        "departure": "HKT, Phuket",
+        "arrival": "IAD, Washington",
+        "flight duration": "23 hours 55 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "HKT",
+                "departure_time": "1:40am",
+                "arrival_airport": "PEK",
+                "arrival_time": "7:45am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "12:45pm",
+                "arrival_airport": "IAD",
+                "arrival_time": "1:35pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    }
+]

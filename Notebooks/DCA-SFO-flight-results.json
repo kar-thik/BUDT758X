@@ -1,0 +1,2074 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 36 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:30am",
+                "arrival_airport": "ORD",
+                "arrival_time": "7:45am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "10:25am",
+                "arrival_airport": "SFO",
+                "arrival_time": "1:06pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 2 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:47pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:04pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "5:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "7:49pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 57 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:59am",
+                "arrival_airport": "DFW",
+                "arrival_time": "9:36am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "DFW",
+                "departure_time": "10:55am",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:56pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 29 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:10pm",
+                "arrival_airport": "PHX",
+                "arrival_time": "7:19pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "PHX",
+                "departure_time": "8:29pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:39pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 40 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:35pm",
+                "arrival_airport": "DFW",
+                "arrival_time": "7:06pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "DFW",
+                "departure_time": "10:20pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:15am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 10 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:00am",
+                "arrival_airport": "ORD",
+                "arrival_time": "12:16pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "2:30pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "5:10pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 35 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "9:35am",
+                "arrival_airport": "ORD",
+                "arrival_time": "10:53am",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "2:30pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "5:10pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 42 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:00am",
+                "arrival_airport": "PHX",
+                "arrival_time": "9:19am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "PHX",
+                "departure_time": "10:25am",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:42pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 40 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:35pm",
+                "arrival_airport": "DFW",
+                "arrival_time": "9:07pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "DFW",
+                "departure_time": "10:20pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:15am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 2 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00am",
+                "arrival_airport": "PHL",
+                "arrival_time": "7:00am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "PHL",
+                "departure_time": "7:55am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:02am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 34 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:59pm",
+                "arrival_airport": "PHL",
+                "arrival_time": "4:11pm",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            },
+            {
+                "departure_airport": "PHL",
+                "departure_time": "6:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:33pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "375.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 7 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:59am",
+                "arrival_airport": "ORD",
+                "arrival_time": "9:19am",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "10:25am",
+                "arrival_airport": "SFO",
+                "arrival_time": "1:06pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "432.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 58 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:59am",
+                "arrival_airport": "CLT",
+                "arrival_time": "8:41am",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "CLT",
+                "departure_time": "9:20am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:57am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "432.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 27 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:30am",
+                "arrival_airport": "CLT",
+                "arrival_time": "6:56am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "CLT",
+                "departure_time": "9:20am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:57am",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "435.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 4 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:35pm",
+                "arrival_airport": "DFW",
+                "arrival_time": "7:06pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "DFW",
+                "departure_time": "8:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:39pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "455.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 14 minutes",
+        "airline": "JetBlue Airways",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "3:35pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "5:12pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "7:04pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:49pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "455.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "11 hours 33 minutes",
+        "airline": "JetBlue Airways",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:16pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "3:51pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "7:04pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:49pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "455.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "11 hours 47 minutes",
+        "airline": "JetBlue Airways",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "1:13pm",
+                "arrival_airport": "FLL",
+                "arrival_time": "3:53pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "FLL",
+                "departure_time": "6:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:00pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "476.40",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "6 hours 2 minutes",
+        "airline": "Alaska Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:21pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "8:23pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "493.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "11 hours 0 minutes",
+        "airline": "Alaska Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "9:10am",
+                "arrival_airport": "LAX",
+                "arrival_time": "12:04pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "3:55pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "5:10pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "511.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 11 minutes",
+        "airline": "JetBlue Airways",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:15am",
+                "arrival_airport": "BOS",
+                "arrival_time": "8:44am",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "10:50am",
+                "arrival_airport": "SFO",
+                "arrival_time": "2:26pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "511.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "11 hours 26 minutes",
+        "airline": "JetBlue Airways",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00am",
+                "arrival_airport": "BOS",
+                "arrival_time": "7:23am",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "10:50am",
+                "arrival_airport": "SFO",
+                "arrival_time": "2:26pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "531.82",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 12 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:55pm",
+                "arrival_airport": "MSP",
+                "arrival_time": "4:30pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "MSP",
+                "departure_time": "5:34pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "7:29pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "8:35pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:07pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "548.80",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "11 hours 52 minutes",
+        "airline": "Alaska Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:00am",
+                "arrival_airport": "DAL",
+                "arrival_time": "9:24am",
+                "plane_code": "E75",
+                "plane": "Embraer 175"
+            },
+            {
+                "departure_airport": "DAL",
+                "departure_time": "2:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "3:52pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "576.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 31 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:05pm",
+                "arrival_airport": "CLT",
+                "arrival_time": "6:44pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "CLT",
+                "departure_time": "7:59pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:36pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "576.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 42 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "12:00pm",
+                "arrival_airport": "CLT",
+                "arrival_time": "1:32pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "CLT",
+                "departure_time": "3:04pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "5:42pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "579.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 17 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "10:37am",
+                "arrival_airport": "PHX",
+                "arrival_time": "12:42pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            },
+            {
+                "departure_airport": "PHX",
+                "departure_time": "1:47pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "3:54pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "592.42",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "6 hours 7 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:53am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:00am",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 28 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:15pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "6:05pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "9:30pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:43pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "11 hours 1 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:09am",
+                "arrival_airport": "ATL",
+                "arrival_time": "12:57pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "4:54pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "7:10pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 25 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "12:45pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "2:37pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "4:54pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "7:10pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 22 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "12:45pm",
+                "arrival_airport": "DTW",
+                "arrival_time": "2:14pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "4:00pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "6:07pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 50 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:05pm",
+                "arrival_airport": "MSP",
+                "arrival_time": "6:47pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "MSP",
+                "departure_time": "8:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:55pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 19 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00am",
+                "arrival_airport": "ATL",
+                "arrival_time": "7:39am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "8:14am",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:19am",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 48 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:15am",
+                "arrival_airport": "MSP",
+                "arrival_time": "7:51am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "MSP",
+                "departure_time": "8:59am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:03am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 22 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:00am",
+                "arrival_airport": "ATL",
+                "arrival_time": "8:48am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "10:13am",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:22pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 28 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00am",
+                "arrival_airport": "ATL",
+                "arrival_time": "7:39am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "11:20am",
+                "arrival_airport": "SFO",
+                "arrival_time": "1:28pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 29 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:05am",
+                "arrival_airport": "DTW",
+                "arrival_time": "7:31am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "8:35am",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:34am",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 31 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:15am",
+                "arrival_airport": "MSP",
+                "arrival_time": "7:51am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "MSP",
+                "departure_time": "11:50am",
+                "arrival_airport": "SFO",
+                "arrival_time": "1:46pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 16 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "8:30am",
+                "arrival_airport": "MSP",
+                "arrival_time": "10:15am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "MSP",
+                "departure_time": "11:50am",
+                "arrival_airport": "SFO",
+                "arrival_time": "1:46pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 22 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00am",
+                "arrival_airport": "ATL",
+                "arrival_time": "7:39am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "10:13am",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:22pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 43 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "7:56pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "9:30pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:43pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 42 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:37pm",
+                "arrival_airport": "SLC",
+                "arrival_time": "7:16pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            },
+            {
+                "departure_airport": "SLC",
+                "departure_time": "8:15pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:19pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 28 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:00am",
+                "arrival_airport": "ATL",
+                "arrival_time": "8:48am",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "11:20am",
+                "arrival_airport": "SFO",
+                "arrival_time": "1:28pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "599.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 25 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "1:45pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "3:37pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "4:54pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "7:10pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "616.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 29 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "1:45pm",
+                "arrival_airport": "CLT",
+                "arrival_time": "3:17pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "CLT",
+                "departure_time": "6:29pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:14pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "617.58",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 56 minutes",
+        "airline": "Frontier Airlines",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00pm",
+                "arrival_airport": "DEN",
+                "arrival_time": "8:00pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "DEN",
+                "departure_time": "10:10pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:56pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 57 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "12:50pm",
+                "arrival_airport": "IAH",
+                "arrival_time": "3:20pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "IAH",
+                "departure_time": "4:25pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "6:47pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 43 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:44am",
+                "arrival_airport": "ORD",
+                "arrival_time": "12:50pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "4:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "7:27pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 37 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "8:45am",
+                "arrival_airport": "ORD",
+                "arrival_time": "10:01am",
+                "plane_code": "73G",
+                "plane": "Boeing 737-700"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "12:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "3:22pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 37 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "12:45pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "2:00pm",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "3:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "6:22pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 7 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "3:55pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "5:07pm",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "6:20pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:02pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 17 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:45pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:02pm",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "6:20pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:02pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 33 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "3:59pm",
+                "arrival_airport": "DEN",
+                "arrival_time": "6:04pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            },
+            {
+                "departure_airport": "DEN",
+                "departure_time": "6:55pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "8:32pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:50pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "7:06pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "8:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:50pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 32 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:50pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "6:20pm",
+                "plane_code": "ERJ",
+                "plane": "Embraer EMB-145"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "8:00pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:22pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 51 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:45pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "4:15pm",
+                "plane_code": "ERJ",
+                "plane": "Embraer EMB-145"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "5:15pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "8:36pm",
+                "plane_code": "752",
+                "plane": "Boeing 757-200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 38 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:44am",
+                "arrival_airport": "ORD",
+                "arrival_time": "12:50pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "3:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "6:22pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 55 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:55pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "6:14pm",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "8:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:50pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 54 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:50pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "6:20pm",
+                "plane_code": "ERJ",
+                "plane": "Embraer EMB-145"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "9:15pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:44am",
+                "plane_code": "752",
+                "plane": "Boeing 757-200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 42 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:45pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "4:02pm",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "4:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "7:27pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 3 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "8:35am",
+                "arrival_airport": "IAH",
+                "arrival_time": "10:57am",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "IAH",
+                "departure_time": "12:20pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "2:38pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 37 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "10:45am",
+                "arrival_airport": "ORD",
+                "arrival_time": "11:47am",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "3:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "6:22pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 15 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:59am",
+                "arrival_airport": "EWR",
+                "arrival_time": "9:18am",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "11:00am",
+                "arrival_airport": "SFO",
+                "arrival_time": "2:14pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 3 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:30am",
+                "arrival_airport": "EWR",
+                "arrival_time": "12:58pm",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "2:20pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "5:33pm",
+                "plane_code": "752",
+                "plane": "Boeing 757-200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 20 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:31pm",
+                "arrival_airport": "IAH",
+                "arrival_time": "6:53pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "IAH",
+                "departure_time": "9:37pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:51pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 59 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:31pm",
+                "arrival_airport": "IAH",
+                "arrival_time": "6:53pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "IAH",
+                "departure_time": "8:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:30pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 43 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "7:01pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "8:35pm",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "9:15pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:44am",
+                "plane_code": "752",
+                "plane": "Boeing 757-200"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 54 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:30am",
+                "arrival_airport": "EWR",
+                "arrival_time": "12:58pm",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "3:25pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "6:24pm",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 27 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:25pm",
+                "arrival_airport": "IAH",
+                "arrival_time": "5:01pm",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "IAH",
+                "departure_time": "6:33pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "8:52pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "10 hours 36 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "4:55pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "6:14pm",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "9:54pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:31am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 0 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "6:00am",
+                "arrival_airport": "ORD",
+                "arrival_time": "7:10am",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "8:20am",
+                "arrival_airport": "SFO",
+                "arrival_time": "11:00am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 55 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "3:55pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "5:07pm",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "8:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:50pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 40 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "2:45pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "4:15pm",
+                "plane_code": "ERJ",
+                "plane": "Embraer EMB-145"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "6:00pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:25pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 3 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:44am",
+                "arrival_airport": "ORD",
+                "arrival_time": "12:50pm",
+                "plane_code": "319",
+                "plane": "Airbus A319"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "2:05pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "4:47pm",
+                "plane_code": "738",
+                "plane": "Boeing 737-800"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 42 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "12:45pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "2:00pm",
+                "plane_code": "E70",
+                "plane": "EMBRAER 170"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "4:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "7:27pm",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "629.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "9 hours 41 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:50pm",
+                "arrival_airport": "ORD",
+                "arrival_time": "7:06pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "9:54pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "12:31am",
+                "plane_code": "739",
+                "plane": "Boeing 737-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "695.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "8 hours 13 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "11:09am",
+                "arrival_airport": "ATL",
+                "arrival_time": "12:57pm",
+                "plane_code": "321",
+                "plane": "Airbus A321"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "2:15pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "4:22pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "695.62",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 30 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "5:30pm",
+                "arrival_airport": "DTW",
+                "arrival_time": "7:19pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "7:55pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "10:00pm",
+                "plane_code": "757",
+                "plane": "Boeing 757"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "767.60",
+        "departure": "DCA, Washington",
+        "arrival": "SFO, San Francisco",
+        "flight duration": "7 hours 37 minutes",
+        "airline": "United",
+        "timings": [
+            {
+                "departure_airport": "DCA",
+                "departure_time": "10:45am",
+                "arrival_airport": "ORD",
+                "arrival_time": "11:47am",
+                "plane_code": "E7W",
+                "plane": "Embraer 175 (Enhanced Winglets)"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "12:45pm",
+                "arrival_airport": "SFO",
+                "arrival_time": "3:22pm",
+                "plane_code": "753",
+                "plane": "Boeing 757 (757-300)"
+            }
+        ]
+    }
+]

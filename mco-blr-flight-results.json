@@ -1,0 +1,1164 @@
+[
+    {
+        "stops": "2 Stop",
+        "ticket price": "1163.02",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 28 hours 51 minutes",
+        "airline": "",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "9:49am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:28pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:50pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:50pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "9:00pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:10am",
+                "plane_code": "738"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1169.50",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 30 hours 50 minutes",
+        "airline": "Cathay Pacific",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "7:50am",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:15am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "1:15pm",
+                "arrival_airport": "HKG",
+                "arrival_time": "6:55pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "9:00pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:10am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1221.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "1 days 28 hours 20 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "6:05am",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:36am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:40pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "11:50am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:20pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "7:55pm",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1221.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 35 hours 40 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "6:05am",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:36am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:40pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "11:50am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:45pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "3:15am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1228.67",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 34 hours 45 minutes",
+        "airline": "Qatar Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "6:05am",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:36am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "4:25pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "7:30pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "2:20am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1233.67",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 23 hours 59 minutes",
+        "airline": "",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "5:46pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:34pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:55pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "8:05pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:45pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "3:15am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1314.10",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 29 hours 47 minutes",
+        "airline": "Jet Airways",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "7:38pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "10:40am",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "11:40am",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:25pm",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "8:10am",
+                "arrival_airport": "BLR",
+                "arrival_time": "10:55am",
+                "plane_code": ""
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1314.10",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 28 hours 42 minutes",
+        "airline": "Jet Airways",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "7:38pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "10:40am",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "11:40am",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:25pm",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "7:05am",
+                "arrival_airport": "BLR",
+                "arrival_time": "9:50am",
+                "plane_code": ""
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1317.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 29 hours 4 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "5:46pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:34pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:55pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "8:05pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:45am",
+                "arrival_airport": "BLR",
+                "arrival_time": "8:20am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1317.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 23 hours 59 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "5:46pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:34pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:55pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "8:05pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:45pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "3:15am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1320.00",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 25 hours 35 minutes",
+        "airline": "Qatar Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "3:15pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "6:18pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "10:59pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "5:45pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "7:30pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "2:20am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1320.00",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 30 hours 20 minutes",
+        "airline": "Qatar Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "10:30am",
+                "arrival_airport": "BOS",
+                "arrival_time": "1:28pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "10:59pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "5:45pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "7:30pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "2:20am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1328.80",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 37 hours 15 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A330",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "9:10pm",
+                "arrival_airport": "DUB",
+                "arrival_time": "10:30am",
+                "plane_code": "330"
+            },
+            {
+                "departure_airport": "DUB",
+                "departure_time": "7:45pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "6:25am",
+                "plane_code": "330"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:20pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "7:55pm",
+                "plane_code": "330"
+            }
+        ],
+        "plane code": "330"
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "1338.10",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 33 hours 51 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "2:59pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:58pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:30pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "7:50am",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:30am",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:15pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "8:20am",
+                "arrival_airport": "BLR",
+                "arrival_time": "10:20am",
+                "plane_code": "320"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1341.60",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 31 hours 15 minutes",
+        "airline": "Air Canada",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "8:40am",
+                "arrival_airport": "YUL",
+                "arrival_time": "11:43am",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "YUL",
+                "departure_time": "7:15pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "8:20am",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "1:10pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "1:25am",
+                "plane_code": "319"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1348.40",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 29 hours 12 minutes",
+        "airline": "Delta",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "7:38pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "10:40am",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "2:20pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "2:15am",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "8:20am",
+                "arrival_airport": "BLR",
+                "arrival_time": "10:20am",
+                "plane_code": ""
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1352.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 23 hours 46 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "2:59pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:58pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:43pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "9:15am",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:50am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:15am",
+                "plane_code": "320"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1352.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 25 hours 5 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 757",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "1:40pm",
+                "arrival_airport": "DTW",
+                "arrival_time": "4:24pm",
+                "plane_code": "757"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "6:20pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:10am",
+                "plane_code": "757"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:50am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:15am",
+                "plane_code": "757"
+            }
+        ],
+        "plane code": "757"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1352.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 26 hours 20 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "12:25pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "2:03pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "3:22pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "5:55am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:50am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:15am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1352.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 24 hours 20 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 757",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "2:25pm",
+                "arrival_airport": "ATL",
+                "arrival_time": "4:12pm",
+                "plane_code": "757"
+            },
+            {
+                "departure_airport": "ATL",
+                "departure_time": "5:41pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:05am",
+                "plane_code": "757"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:50am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:15am",
+                "plane_code": "757"
+            }
+        ],
+        "plane code": "757"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1352.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 26 hours 34 minutes",
+        "airline": "Delta",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "12:11pm",
+                "arrival_airport": "DTW",
+                "arrival_time": "2:50pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "DTW",
+                "departure_time": "4:26pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "5:55am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:50am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:15am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1355.44",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "1 days 25 hours 15 minutes",
+        "airline": "",
+        "plane": "Boeing 757 (757-300)",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "9:40am",
+                "arrival_airport": "ORD",
+                "arrival_time": "11:28am",
+                "plane_code": "753"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "1:30pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "2:35pm",
+                "plane_code": "753"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "5:40pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "8:25pm",
+                "plane_code": "753"
+            }
+        ],
+        "plane code": "753"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1371.60",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "1 days 25 hours 0 minutes",
+        "airline": "",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "9:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:29pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:30pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "2:10pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "5:40pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "8:25pm",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1382.30",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "1 days 19 hours 35 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "2:10pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:20pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "1:45pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "7:15pm",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1382.30",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 27 hours 20 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "2:10pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "12:20pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "9:30pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "3:00am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1387.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 39 hours 0 minutes",
+        "airline": "Air Canada",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:47pm",
+                "plane_code": "763"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "10:15pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "9:35pm",
+                "plane_code": "763"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "9:45am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:30pm",
+                "plane_code": "763"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1387.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 35 hours 25 minutes",
+        "airline": "Air Canada",
+        "plane": "Boeing 767-300",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "12:00pm",
+                "arrival_airport": "YYZ",
+                "arrival_time": "2:47pm",
+                "plane_code": "763"
+            },
+            {
+                "departure_airport": "YYZ",
+                "departure_time": "10:15pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "9:35pm",
+                "plane_code": "763"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "6:10am",
+                "arrival_airport": "BLR",
+                "arrival_time": "8:55am",
+                "plane_code": "763"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1401.60",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 27 hours 0 minutes",
+        "airline": "Air Canada",
+        "plane": "Embraer 190",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "12:55pm",
+                "arrival_airport": "YOW",
+                "arrival_time": "3:56pm",
+                "plane_code": "E90"
+            },
+            {
+                "departure_airport": "YOW",
+                "departure_time": "9:40pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "10:55am",
+                "plane_code": "E90"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "1:10pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "1:25am",
+                "plane_code": "E90"
+            }
+        ],
+        "plane code": "E90"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1520.80",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 31 hours 5 minutes",
+        "airline": "Jet Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "7:40am",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:21am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "JFK",
+                "departure_time": "4:20pm",
+                "arrival_airport": "AMS",
+                "arrival_time": "5:55am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:50am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:15am",
+                "plane_code": "321"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1564.90",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "1 days 25 hours 25 minutes",
+        "airline": "",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "9:00am",
+                "arrival_airport": "ORD",
+                "arrival_time": "11:04am",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "ORD",
+                "departure_time": "1:10pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "11:40am",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:20pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "7:55pm",
+                "plane_code": "738"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "1646.80",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 30 hours 1 minutes",
+        "airline": "Emirates",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "5:24pm",
+                "arrival_airport": "EWR",
+                "arrival_time": "8:12pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "EWR",
+                "departure_time": "11:55pm",
+                "arrival_airport": "ATH",
+                "arrival_time": "4:05pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "ATH",
+                "departure_time": "6:05pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "11:35pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "3:20am",
+                "arrival_airport": "BLR",
+                "arrival_time": "8:55am",
+                "plane_code": "320"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "2350.50",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 44 hours 21 minutes",
+        "airline": "",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "3:59pm",
+                "arrival_airport": "IAH",
+                "arrival_time": "5:25pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "IAH",
+                "departure_time": "7:10pm",
+                "arrival_airport": "MAN",
+                "arrival_time": "10:10am",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "MAN",
+                "departure_time": "11:40am",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:40am",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "8:05pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "9:50pm",
+                "plane_code": "319"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2741.50",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "1 days 29 hours 23 minutes",
+        "airline": "",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "6:57am",
+                "arrival_airport": "SFO",
+                "arrival_time": "9:35am",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "SFO",
+                "departure_time": "11:30am",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:10pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "8:05pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "9:50pm",
+                "plane_code": "738"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3424.50",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 30 hours 55 minutes",
+        "airline": "",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "7:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:55pm",
+                "plane_code": "739"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "739"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "10:05am",
+                "arrival_airport": "BLR",
+                "arrival_time": "12:10pm",
+                "plane_code": "739"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "3424.50",
+        "departure": ", Orlando",
+        "arrival": ", Bengaluru",
+        "flight duration": "2 days 40 hours 10 minutes",
+        "airline": "",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "MCO",
+                "departure_time": "7:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:55pm",
+                "plane_code": "739"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "7:35am",
+                "plane_code": "739"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "7:25pm",
+                "arrival_airport": "BLR",
+                "arrival_time": "9:25pm",
+                "plane_code": "739"
+            }
+        ],
+        "plane code": "739"
+    }
+]

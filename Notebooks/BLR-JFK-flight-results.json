@@ -1,0 +1,2262 @@
+[
+    {
+        "stops": "1 Stop",
+        "ticket price": "1060.30",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 28 hours 35 minutes",
+        "airline": "Cathay Pacific",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:10am",
+                "arrival_airport": "HKG",
+                "arrival_time": "9:35am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "4:05pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:15pm",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1094.41",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 15 minutes",
+        "airline": "Jet Airways",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:30pm",
+                "plane_code": "789"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1094.41",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 44 minutes",
+        "airline": "Jet Airways",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "5:55pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:59pm",
+                "plane_code": "74E"
+            }
+        ],
+        "plane code": "74E"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1094.41",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 10 minutes",
+        "airline": "Jet Airways",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:25pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:25pm",
+                "plane_code": "789"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1178.78",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 25 minutes",
+        "airline": "Jet Airways",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:45pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "12:35am",
+                "plane_code": "73H"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "2:40am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:15am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:25pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:40pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1179.84",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 27 minutes",
+        "airline": "Jet Airways",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:45pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "12:35am",
+                "plane_code": "73H"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "2:10am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:15am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "10:20am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:42pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1179.84",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 37 minutes",
+        "airline": "Jet Airways",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "2:10am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:15am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "10:20am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:42pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1344.95",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 19 hours 25 minutes",
+        "airline": "Emirates",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "4:30am",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:00am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "8:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:25pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1467.02",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 38 hours 40 minutes",
+        "airline": "SriLankan Airlines",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "3:30am",
+                "arrival_airport": "CMB",
+                "arrival_time": "5:00am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "CMB",
+                "departure_time": "6:55pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "9:15pm",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "1:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:40am",
+                "plane_code": "359"
+            }
+        ],
+        "plane code": "359"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1730.55",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 19 hours 55 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "7:00am",
+                "arrival_airport": "LHR",
+                "arrival_time": "1:15pm",
+                "plane_code": "777"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:25pm",
+                "plane_code": "744"
+            }
+        ],
+        "plane code": "744"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1730.55",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 30 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "7:00am",
+                "arrival_airport": "LHR",
+                "arrival_time": "1:15pm",
+                "plane_code": "777"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "6:05pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:00pm",
+                "plane_code": "777"
+            }
+        ],
+        "plane code": "777"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1730.55",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 22 hours 25 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "7:00am",
+                "arrival_airport": "LHR",
+                "arrival_time": "1:15pm",
+                "plane_code": "777"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "5:00pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:55pm",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1730.55",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 21 hours 45 minutes",
+        "airline": "American Airlines",
+        "plane": "Boeing 777",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "7:00am",
+                "arrival_airport": "LHR",
+                "arrival_time": "1:15pm",
+                "plane_code": "777"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "4:15pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:15pm",
+                "plane_code": "777"
+            }
+        ],
+        "plane code": "777"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2061.68",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 20 hours 5 minutes",
+        "airline": "United",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "3:05am",
+                "arrival_airport": "FRA",
+                "arrival_time": "9:00am",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "11:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:40pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "4826.57",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 20 minutes",
+        "airline": "Lufthansa",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "3:05am",
+                "arrival_airport": "FRA",
+                "arrival_time": "9:00am",
+                "plane_code": ""
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "5:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:55pm",
+                "plane_code": ""
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "606.80",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 21 hours 5 minutes",
+        "airline": "Etihad Airways",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "4:35am",
+                "arrival_airport": "AUH",
+                "arrival_time": "7:05am",
+                "plane_code": "332"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:10pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "606.80",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 20 hours 25 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:15pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:40am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:10am",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "606.80",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 25 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:15pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:40am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:10pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "608.16",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 32 hours 45 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:20pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:10am",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "608.16",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 39 hours 45 minutes",
+        "airline": "Etihad Airways",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:55am",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:20pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:10pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "608.16",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 38 hours 5 minutes",
+        "airline": "Etihad Airways",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "4:35am",
+                "arrival_airport": "AUH",
+                "arrival_time": "7:05am",
+                "plane_code": "332"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:10am",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "646.97",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 21 hours 10 minutes",
+        "airline": "Qatar Airways",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "3:45am",
+                "arrival_airport": "DOH",
+                "arrival_time": "5:50am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "8:40am",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:25pm",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "650.57",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 38 hours 25 minutes",
+        "airline": "Qatar Airways",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "3:45am",
+                "arrival_airport": "DOH",
+                "arrival_time": "5:50am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "1:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "8:40am",
+                "plane_code": "359"
+            }
+        ],
+        "plane code": "359"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "654.30",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 50 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "5:45am",
+                "arrival_airport": "BOM",
+                "arrival_time": "7:35am",
+                "plane_code": "73H"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:55am",
+                "arrival_airport": "LHR",
+                "arrival_time": "3:10pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:05pm",
+                "plane_code": "346"
+            }
+        ],
+        "plane code": "346"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "690.00",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 35 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "8:00am",
+                "arrival_airport": "BOM",
+                "arrival_time": "9:55am",
+                "plane_code": "73H"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "12:50pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "5:55pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:05pm",
+                "plane_code": "346"
+            }
+        ],
+        "plane code": "346"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "690.00",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 25 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:10am",
+                "arrival_airport": "BOM",
+                "arrival_time": "10:55am",
+                "plane_code": "73H"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "12:50pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "5:55pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:05pm",
+                "plane_code": "346"
+            }
+        ],
+        "plane code": "346"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "690.00",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 50 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "5:45am",
+                "arrival_airport": "BOM",
+                "arrival_time": "7:35am",
+                "plane_code": "73H"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "12:50pm",
+                "arrival_airport": "LHR",
+                "arrival_time": "5:55pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "8:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:05pm",
+                "plane_code": "346"
+            }
+        ],
+        "plane code": "346"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 32 hours 5 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "8:50am",
+                "arrival_airport": "BOM",
+                "arrival_time": "10:45am",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:10pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 34 hours 45 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "6:10am",
+                "arrival_airport": "DEL",
+                "arrival_time": "8:55am",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 34 hours 10 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "6:45am",
+                "arrival_airport": "BOM",
+                "arrival_time": "8:35am",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:10pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 35 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:20pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "4:10pm",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 55 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "5:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "7:50pm",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 30 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "5:25pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "7:20pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:10pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 30 hours 55 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:00am",
+                "arrival_airport": "DEL",
+                "arrival_time": "12:45pm",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 45 hours 45 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "7:10pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "9:10pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:10pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "779.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 28 hours 55 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "12:00pm",
+                "arrival_airport": "HBX",
+                "arrival_time": "12:40pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "HBX",
+                "departure_time": "1:20pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "2:25pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:10pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "783.43",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 42 hours 10 minutes",
+        "airline": "Gulf Air",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "4:25am",
+                "arrival_airport": "BAH",
+                "arrival_time": "6:35am",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "BAH",
+                "departure_time": "1:35am",
+                "arrival_airport": "CDG",
+                "arrival_time": "7:20am",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "10:40am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:05pm",
+                "plane_code": "763"
+            }
+        ],
+        "plane code": "763"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "795.99",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 19 hours 50 minutes",
+        "airline": "Air India",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:05pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:55pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "797.01",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 25 hours 0 minutes",
+        "airline": "Gulf Air",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "4:25am",
+                "arrival_airport": "BAH",
+                "arrival_time": "6:35am",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "BAH",
+                "departure_time": "10:15am",
+                "arrival_airport": "LHR",
+                "arrival_time": "3:20pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "5:00pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:55pm",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "797.01",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 25 minutes",
+        "airline": "Gulf Air",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "4:25am",
+                "arrival_airport": "BAH",
+                "arrival_time": "6:35am",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "BAH",
+                "departure_time": "10:15am",
+                "arrival_airport": "LHR",
+                "arrival_time": "3:20pm",
+                "plane_code": "320"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "7:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "10:20pm",
+                "plane_code": "772"
+            }
+        ],
+        "plane code": "772"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 45 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "8:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "10:40pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:50pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 28 hours 15 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:20pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 45 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "11:50am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:50pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 30 hours 10 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "8:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "10:40pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:15pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 31 hours 15 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "2:00pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "3:50pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:45am",
+                "plane_code": "346"
+            }
+        ],
+        "plane code": "346"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 40 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "8:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "10:40pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:45am",
+                "plane_code": "346"
+            }
+        ],
+        "plane code": "346"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 40 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "9:00am",
+                "arrival_airport": "JFK",
+                "arrival_time": "11:45am",
+                "plane_code": "346"
+            }
+        ],
+        "plane code": "346"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 15 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "8:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "10:40pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "1:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:20pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 10 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "5:15pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "867.45",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 30 hours 40 minutes",
+        "airline": "Virgin Atlantic",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:40am",
+                "arrival_airport": "LHR",
+                "arrival_time": "6:45am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "LHR",
+                "departure_time": "3:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:45pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "900.15",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 25 hours 30 minutes",
+        "airline": "Alitalia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:15pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:40am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:35am",
+                "arrival_airport": "FCO",
+                "arrival_time": "7:05am",
+                "plane_code": "332"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "10:40am",
+                "arrival_airport": "JFK",
+                "arrival_time": "2:15pm",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "900.15",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 30 minutes",
+        "airline": "Alitalia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:15pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:40am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "2:35am",
+                "arrival_airport": "FCO",
+                "arrival_time": "7:05am",
+                "plane_code": "332"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "9:30am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:15pm",
+                "plane_code": "330"
+            }
+        ],
+        "plane code": "330"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "900.15",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 30 hours 0 minutes",
+        "airline": "Alitalia",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "10:15pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "12:40am",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "8:45am",
+                "arrival_airport": "FCO",
+                "arrival_time": "1:00pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "FCO",
+                "departure_time": "2:50pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "6:45pm",
+                "plane_code": "330"
+            }
+        ],
+        "plane code": "330"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "926.77",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 5 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "11:50am",
+                "arrival_airport": "MAA",
+                "arrival_time": "12:50pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "MAA",
+                "departure_time": "9:05pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:55pm",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "926.77",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 5 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "11:50am",
+                "arrival_airport": "MAA",
+                "arrival_time": "12:50pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "MAA",
+                "departure_time": "5:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "7:50pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "926.77",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 5 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "11:50am",
+                "arrival_airport": "MAA",
+                "arrival_time": "12:50pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "MAA",
+                "departure_time": "2:55pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "4:50pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "11:10pm",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "930.31",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 35 minutes",
+        "airline": "Egyptair",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "7:10pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "9:10pm",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "3:00am",
+                "arrival_airport": "CAI",
+                "arrival_time": "5:30am",
+                "plane_code": "330"
+            },
+            {
+                "departure_airport": "CAI",
+                "departure_time": "9:35am",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:15pm",
+                "plane_code": "773"
+            }
+        ],
+        "plane code": "773"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "932.25",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 15 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "2:30pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:30pm",
+                "plane_code": "789"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "932.25",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 25 hours 4 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "2:40am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:15am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "10:55am",
+                "arrival_airport": "JFK",
+                "arrival_time": "1:09pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "932.25",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 44 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "5:55pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:59pm",
+                "plane_code": "74E"
+            }
+        ],
+        "plane code": "74E"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "932.25",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 35 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "2:40am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:15am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:25pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:40pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "932.25",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "0 days 23 hours 10 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:25pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "3:25pm",
+                "plane_code": "789"
+            }
+        ],
+        "plane code": "789"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "932.67",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 32 hours 40 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "8:15am",
+                "arrival_airport": "HYD",
+                "arrival_time": "9:15am",
+                "plane_code": "319"
+            },
+            {
+                "departure_airport": "HYD",
+                "departure_time": "10:00am",
+                "arrival_airport": "DEL",
+                "arrival_time": "12:15pm",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "4 Stop",
+        "ticket price": "932.67",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 35 hours 5 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "5:50am",
+                "arrival_airport": "CCU",
+                "arrival_time": "8:20am",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "CCU",
+                "departure_time": "9:10am",
+                "arrival_airport": "BBI",
+                "arrival_time": "10:20am",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "BBI",
+                "departure_time": "10:50am",
+                "arrival_airport": "HYD",
+                "arrival_time": "12:25pm",
+                "plane_code": "32B"
+            },
+            {
+                "departure_airport": "HYD",
+                "departure_time": "4:10pm",
+                "arrival_airport": "DEL",
+                "arrival_time": "6:30pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "DEL",
+                "departure_time": "1:45am",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:25am",
+                "plane_code": "77W"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "934.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 24 hours 37 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "2:10am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:15am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "10:20am",
+                "arrival_airport": "JFK",
+                "arrival_time": "12:42pm",
+                "plane_code": "333"
+            }
+        ],
+        "plane code": "333"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "934.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 55 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "1:55am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:05am",
+                "plane_code": "343"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "1:35pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:00pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "934.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 20 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:20am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:15am",
+                "plane_code": "332"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "4:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:10pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "934.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 55 minutes",
+        "airline": "Delta",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "9:35pm",
+                "arrival_airport": "BOM",
+                "arrival_time": "11:35pm",
+                "plane_code": "738"
+            },
+            {
+                "departure_airport": "BOM",
+                "departure_time": "2:10am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:15am",
+                "plane_code": "77W"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "1:35pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "4:00pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "934.72",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 35 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:20am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:15am",
+                "plane_code": "332"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "7:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:25pm",
+                "plane_code": "772"
+            }
+        ],
+        "plane code": "772"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "948.11",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 27 hours 20 minutes",
+        "airline": "Air France",
+        "plane": "AIRBUS INDUSTRIE A330-200",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:20am",
+                "arrival_airport": "CDG",
+                "arrival_time": "8:15am",
+                "plane_code": "332"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "4:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:10pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "956.59",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 55 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "12:25pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "1:40pm",
+                "plane_code": "73H"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "4:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:10pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "956.59",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 10 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "2:40pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "3:55pm",
+                "plane_code": "318"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "7:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:25pm",
+                "plane_code": "772"
+            }
+        ],
+        "plane code": "772"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "956.59",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 26 hours 55 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:50pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "3:10pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "4:45pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "7:10pm",
+                "plane_code": "388"
+            }
+        ],
+        "plane code": "388"
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "956.59",
+        "departure": ", Bengaluru",
+        "arrival": ", New York",
+        "flight duration": "1 days 29 hours 10 minutes",
+        "airline": "Delta",
+        "plane": "AIRBUS INDUSTRIE A330-300",
+        "timings": [
+            {
+                "departure_airport": "BLR",
+                "departure_time": "1:45am",
+                "arrival_airport": "AMS",
+                "arrival_time": "8:45am",
+                "plane_code": "333"
+            },
+            {
+                "departure_airport": "AMS",
+                "departure_time": "1:50pm",
+                "arrival_airport": "CDG",
+                "arrival_time": "3:10pm",
+                "plane_code": "321"
+            },
+            {
+                "departure_airport": "CDG",
+                "departure_time": "7:10pm",
+                "arrival_airport": "JFK",
+                "arrival_time": "9:25pm",
+                "plane_code": "772"
+            }
+        ],
+        "plane code": "772"
+    }
+]

@@ -1,0 +1,2538 @@
+[
+    {
+        "stops": "2 Stop",
+        "ticket price": "1109.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 5 minutes",
+        "airline": "Cathay Pacific",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:50pm",
+                "arrival_airport": "YVR",
+                "arrival_time": "12:50am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "YVR",
+                "departure_time": "2:35am",
+                "arrival_airport": "HKG",
+                "arrival_time": "7:20am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "HKG",
+                "departure_time": "10:40am",
+                "arrival_airport": "MEL",
+                "arrival_time": "9:55pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1237.30",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 50 minutes",
+        "airline": "Qatar Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:00pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "4:25pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "9:05pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1238.57",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "24 hours 15 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1242.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "33 hours 30 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:20pm",
+                "arrival_airport": "MXP",
+                "arrival_time": "12:15pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "MXP",
+                "departure_time": "2:05pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "10:10pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:40am",
+                "arrival_airport": "MEL",
+                "arrival_time": "9:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1242.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "32 hours 50 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:00pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:45pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "2:40am",
+                "arrival_airport": "MEL",
+                "arrival_time": "9:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1243.90",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "41 hours 15 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:20pm",
+                "arrival_airport": "MXP",
+                "arrival_time": "12:15pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "MXP",
+                "departure_time": "2:05pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "10:10pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "10:15am",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:35am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "1247.10",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "43 hours 30 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:20pm",
+                "arrival_airport": "MXP",
+                "arrival_time": "12:15pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "MXP",
+                "departure_time": "2:05pm",
+                "arrival_airport": "DXB",
+                "arrival_time": "10:10pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "9:25am",
+                "arrival_airport": "SIN",
+                "arrival_time": "8:55pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "10:40pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1272.10",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "36 hours 40 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:40pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "11:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:05pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:20pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1272.10",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "28 hours 25 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:55pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "8:05pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "10:05pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:20pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1282.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 50 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:45am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1282.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "32 hours 45 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:06am",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:45am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1282.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "24 hours 15 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:45am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1285.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "24 hours 15 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:55pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "8:25am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1285.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "33 hours 30 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "11:42am",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:40pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:30am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1285.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "25 hours 45 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "7:18pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:40pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:30am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1285.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 25 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "2:20pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:55pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "8:25am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1285.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "23 hours 20 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:40pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:30am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1285.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 30 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "2:20pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:40pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:30am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1285.70",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "26 hours 40 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "7:18pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:55pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "8:25am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1291.60",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "42 hours 55 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:40pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "11:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:50pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "5:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1291.60",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "32 hours 40 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:55pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "8:05pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:50pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "5:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "8:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "9:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1291.60",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 40 minutes",
+        "airline": "Etihad Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:55pm",
+                "arrival_airport": "AUH",
+                "arrival_time": "8:05pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "AUH",
+                "departure_time": "9:50pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "5:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1294.80",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "36 hours 5 minutes",
+        "airline": "Qatar Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:45pm",
+                "arrival_airport": "BOS",
+                "arrival_time": "5:14pm",
+                "plane_code": "E90",
+                "plane": "Embraer 190"
+            },
+            {
+                "departure_airport": "BOS",
+                "departure_time": "9:20pm",
+                "arrival_airport": "DOH",
+                "arrival_time": "4:10pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            },
+            {
+                "departure_airport": "DOH",
+                "departure_time": "9:05pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:50pm",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1298.07",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 25 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:00pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "4:24pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:55pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "8:25am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1298.07",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "26 hours 40 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "7:18pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:55pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "8:25am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1298.07",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "25 hours 45 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "7:18pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:40pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:30am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1298.07",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "28 hours 30 minutes",
+        "airline": "",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:00pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "4:24pm",
+                "plane_code": "32S",
+                "plane": "Airbus A319-321"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:40pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:30am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "26 hours 10 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "8:45am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:20am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "27 hours 25 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "28 hours 55 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "11:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "1:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 55 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "2:30pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "4:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 25 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "2:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "3:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "28 hours 25 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "11:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "12:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 55 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "1:30pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "3:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "26 hours 55 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:05am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 25 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "1:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "2:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "26 hours 25 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 25 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "12:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "1:35pm",
+                "plane_code": "332",
+                "plane": "AIRBUS INDUSTRIE A330-200"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1298.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 55 minutes",
+        "airline": "Qantas Airways",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "6:10pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "9:00pm",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:30pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:30am",
+                "plane_code": "744",
+                "plane": "Boeing 747-400"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "12:30pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "2:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "35 hours 40 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 35 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:27pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 10 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "8:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:05am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "33 hours 35 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "2:20pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 5 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "5:58pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 20 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "10:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:27pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "8:45am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:20am",
+                "plane_code": "737",
+                "plane": "Boeing 737"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "28 hours 50 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:45pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "7:18pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 50 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "2:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "5:58pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "8:45am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:20am",
+                "plane_code": "737",
+                "plane": "Boeing 737"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "32 hours 35 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "12:00pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "3:16pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 40 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "35 hours 10 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:05am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 40 minutes",
+        "airline": "Delta",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "77L",
+                "plane": "BOEING 777-200LR"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1302.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "32 hours 20 minutes",
+        "airline": "American Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "12:00pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "3:16pm",
+                "plane_code": "32B",
+                "plane": "AIRBUS INDUSTRIE A321 SHARKLETS"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:10pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:15am",
+                "plane_code": "789",
+                "plane": "BOEING 787-9"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "8:45am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:20am",
+                "plane_code": "737",
+                "plane": "Boeing 737"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1302.50",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "28 hours 15 minutes",
+        "airline": "Emirates",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:20am",
+                "arrival_airport": "DXB",
+                "arrival_time": "7:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "DXB",
+                "departure_time": "10:15am",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:35am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1304.94",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 5 minutes",
+        "airline": "Japan Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:40am",
+                "arrival_airport": "NRT",
+                "arrival_time": "2:40pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "NRT",
+                "departure_time": "8:05pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "7:45am",
+                "plane_code": "333",
+                "plane": "AIRBUS INDUSTRIE A330-300"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1346.93",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "32 hours 45 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "7:00am",
+                "arrival_airport": "LAX",
+                "arrival_time": "10:06am",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1346.93",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 50 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1346.93",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "24 hours 15 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:45am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 35 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "11:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "1:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "28 hours 35 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "8:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:05am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 35 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:05am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 35 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "11:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "1:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "34 hours 40 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 5 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 5 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "10:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "35 hours 10 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "9:55am",
+                "arrival_airport": "LAX",
+                "arrival_time": "1:10pm",
+                "plane_code": "764",
+                "plane": "Boeing 767"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:05am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 35 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "12:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 35 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "12:05pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 5 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "11:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "12:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 5 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "11:45pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "7:30am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 5 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "11:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "12:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "30 hours 5 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "10:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:35am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1366.88",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "29 hours 35 minutes",
+        "airline": "Virgin Australia",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "3:30pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "6:48pm",
+                "plane_code": "",
+                "plane": ""
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "10:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "6:35am",
+                "plane_code": "777",
+                "plane": "Boeing 777"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "9:30am",
+                "arrival_airport": "MEL",
+                "arrival_time": "11:05am",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1598.80",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "40 hours 45 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:15pm",
+                "arrival_airport": "TPE",
+                "arrival_time": "5:05pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "TPE",
+                "departure_time": "8:05pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:50pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "8:10am",
+                "arrival_airport": "MEL",
+                "arrival_time": "8:00pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "1598.80",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "32 hours 50 minutes",
+        "airline": "Thai Airways International",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:15pm",
+                "arrival_airport": "TPE",
+                "arrival_time": "5:05pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "TPE",
+                "departure_time": "8:05pm",
+                "arrival_airport": "BKK",
+                "arrival_time": "10:50pm",
+                "plane_code": "773",
+                "plane": "BOEING 777-300 PASSENGER"
+            },
+            {
+                "departure_airport": "BKK",
+                "departure_time": "12:15am",
+                "arrival_airport": "MEL",
+                "arrival_time": "12:05pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "1981.40",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 25 minutes",
+        "airline": "China Southern Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:15am",
+                "arrival_airport": "CAN",
+                "arrival_time": "3:20pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CAN",
+                "departure_time": "9:00pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "8:40am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "2063.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "39 hours 40 minutes",
+        "airline": "Singapore Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:30am",
+                "arrival_airport": "LAX",
+                "arrival_time": "2:43pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "5:50pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "11:05pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "12:35am",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "7:45am",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:10pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "3 Stop",
+        "ticket price": "2063.20",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "38 hours 10 minutes",
+        "airline": "Singapore Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "1:00pm",
+                "arrival_airport": "LAX",
+                "arrival_time": "4:24pm",
+                "plane_code": "320",
+                "plane": "Airbus A320"
+            },
+            {
+                "departure_airport": "LAX",
+                "departure_time": "5:50pm",
+                "arrival_airport": "ICN",
+                "arrival_time": "11:05pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "ICN",
+                "departure_time": "12:35am",
+                "arrival_airport": "SIN",
+                "arrival_time": "5:55am",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "7:45am",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:10pm",
+                "plane_code": "359",
+                "plane": "AIRBUS INDUSTRIE A350-900"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2084.10",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "42 hours 15 minutes",
+        "airline": "Singapore Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "8:55pm",
+                "arrival_airport": "FRA",
+                "arrival_time": "10:40am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "FRA",
+                "departure_time": "12:30pm",
+                "arrival_airport": "SIN",
+                "arrival_time": "6:50am",
+                "plane_code": "388",
+                "plane": "Airbus Industrie A380-800 Passenger"
+            },
+            {
+                "departure_airport": "SIN",
+                "departure_time": "7:45pm",
+                "arrival_airport": "MEL",
+                "arrival_time": "5:10am",
+                "plane_code": "772",
+                "plane": "772 - BOEING 777/200"
+            }
+        ]
+    },
+    {
+        "stops": "2 Stop",
+        "ticket price": "2154.90",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "35 hours 20 minutes",
+        "airline": "China Southern Airlines",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "11:15am",
+                "arrival_airport": "CAN",
+                "arrival_time": "3:20pm",
+                "plane_code": "77W",
+                "plane": "BOEING 777-300ER"
+            },
+            {
+                "departure_airport": "CAN",
+                "departure_time": "9:25pm",
+                "arrival_airport": "SYD",
+                "arrival_time": "8:25am",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            },
+            {
+                "departure_airport": "SYD",
+                "departure_time": "11:00am",
+                "arrival_airport": "MEL",
+                "arrival_time": "12:35pm",
+                "plane_code": "73H",
+                "plane": "BOEING 737-800 (WINGLETS) PASSENGER"
+            }
+        ]
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "2709.40",
+        "departure": "JFK, New York",
+        "arrival": "MEL, Melbourne",
+        "flight duration": "31 hours 45 minutes",
+        "airline": "Air China",
+        "timings": [
+            {
+                "departure_airport": "JFK",
+                "departure_time": "4:50pm",
+                "arrival_airport": "PEK",
+                "arrival_time": "6:20pm",
+                "plane_code": "747",
+                "plane": "Boeing 747"
+            },
+            {
+                "departure_airport": "PEK",
+                "departure_time": "1:05am",
+                "arrival_airport": "MEL",
+                "arrival_time": "2:35pm",
+                "plane_code": "330",
+                "plane": "Airbus A330"
+            }
+        ]
+    }
+]
